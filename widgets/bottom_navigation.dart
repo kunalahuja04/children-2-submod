@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:yogaApp/icons/yoga_app_icons_icons.dart';
+import '../icons/yoga_app_icons_icons.dart';
 
 class BottomNavigation extends StatelessWidget {
   final IconData navIcon;

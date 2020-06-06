@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:yogaApp/icons/yoga_app_icons_icons.dart';
-import 'package:yogaApp/next_page.dart';
-import 'package:yogaApp/widgets/bottom_navigation.dart';
-import 'package:yogaApp/widgets/feature_card.dart';
-import 'package:yogaApp/widgets/yoga_card.dart';
+import 'next_page.dart';
+import 'widgets/bottom_navigation.dart';
+import 'widgets/feature_card.dart';
+import 'widgets/yoga_card.dart';
 
 void main() {
   runApp(MyApp());
